@@ -15,8 +15,8 @@ EXPOSE 80
 ENV N8N_PORT=80
 ENV N8N_HOST=0.0.0.0
 ENV N8N_PROTOCOL=http
-ENV N8N_EDITOR_BASE_URL=https://sanch1tx-n8n.hf.space
-ENV WEBHOOK_TUNNEL_URL=https://sanch1tx-n8n.hf.space
+ENV N8N_EDITOR_BASE_URL=https://n8n-dhrr.onrender.com
+ENV WEBHOOK_TUNNEL_URL=https://n8n-dhrr.onrender.com
 ENV N8N_DIAGNOSTICS_ENABLED=false
 ENV N8N_VERSION_NOTIFICATIONS_ENABLED=false
 
