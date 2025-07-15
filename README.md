@@ -40,7 +40,7 @@ Experience n8n instantly:
 |----------|--------|
 | **Render**  | [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/maruf009sultan/n8n) |
 | **Heroku**  | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maruf009sultan/n8n) |
-| **Railway** | [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/maruf009sultan/n8n) |
+| **Railway** | [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/7IisQg?referralCode=fbROj8) |
 
 > 💡 Just click, authorize, and your own n8n instance will be live in minutes!
 
