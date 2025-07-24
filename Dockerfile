@@ -9,10 +9,10 @@ RUN apt-get update && apt-get install -y git && npm install -g n8n
 # Create empty data directory (n8n requires it)
 RUN mkdir -p /root/.n8n
 
-EXPOSE 80
+EXPOSE 8080
 
 # Environment config
-ENV N8N_PORT=80
+ENV N8N_PORT=8080
 ENV N8N_HOST=0.0.0.0
 ENV N8N_PROTOCOL=http
 ENV N8N_EDITOR_BASE_URL=https://n8n-dhrr.onrender.com
